@@ -349,7 +349,7 @@ hr{
 
 
 .logout{
-	width:30px !important; height:30px !important; background-color:red !important; color:white !important; 
+	width:30px !important; height:30px !important; background-color:red; color:rgb(4, 4, 4) !important; 
 }
 
 /* 
